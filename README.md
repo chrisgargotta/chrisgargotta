@@ -1,6 +1,6 @@
 # Howdy! I'm Chris!
 
-I am a Staff, Developer Evangelist for Twilio on the Developer Ecosystem team.
+I Manager of Developer Ecosystem @ Twilio.
 
 Today is a beautiful day to be a builder, and I can't wait to see what you build!
 
